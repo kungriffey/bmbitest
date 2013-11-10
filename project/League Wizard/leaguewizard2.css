@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 40px;
+  background-color: #C1E7FF;
+}
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+.form-horizontal{
+  max-width: 400px;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+h2{
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;	
+}
